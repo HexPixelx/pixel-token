@@ -1,2 +1,2 @@
-# pixel-token
-Unlocking True Digital Ownership On VeChain
+# Pixel Token
+
